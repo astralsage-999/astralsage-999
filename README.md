@@ -2,8 +2,11 @@
 Data Degen & Learning frontend devlopment
 
 Building Virtual Assets fractionalization vault • React + Vite + 3js
+
 Ex-SRM Chennai (B.Tech CS • 8.43 CGPA)  
+
 Python, SQL, charts by day • on-chain experiments & techno by night  
+
 Mountains > everything else 🏔️ | Music geek 🎵
 
 
