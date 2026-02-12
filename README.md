@@ -1,5 +1,9 @@
 # 💫 About Me:
-Im working on Frontend of a Virtual assets fractionalisation vault using React and vite<br>I am a Data analyst with proficiency in python , sql , data visualisation<br>I am graduated from SRM university chennai Btech in CS 8.43 CGPA<br>I am a web3 geek , music geek and i love mountains
+Data Degen & Learning frontend devlopment
+Building Virtual Assets fractionalization vault • React + Vite + 3js
+Ex-SRM Chennai (B.Tech CS • 8.43 CGPA)  
+Python, SQL, charts by day • on-chain experiments & techno by night  
+Mountains > everything else 🏔️ | Music geek 🎵
 
 
 ## 🌐 Socials:
